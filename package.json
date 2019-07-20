@@ -1,0 +1,29 @@
+{
+  "name": "servers-of-albion",
+  "version": "1.0.0",
+  "description": "Backend services for SoA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milesflo/Servers-of-Albion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milesflo/Servers-of-Albion/issues"
+  },
+  "homepage": "https://github.com/milesflo/Servers-of-Albion#readme",
+  "dependencies": {
+    "@types/express": "^4.17.0",
+    "@types/socket.io": "^2.1.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "typescript": "^3.5.3"
+  }
+}
